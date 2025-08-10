@@ -16,6 +16,12 @@ For the sake of simplicity, you can assume that Aman, R1 and R2 were informed ab
 
 FoodDeliverySystem is a backend application designed to simulate and optimize food delivery operations. It models restaurants, customers, and orders, and calculates the most efficient delivery route based on real-world locations and preparation times. The system is built with clean architecture principles, making it easy to extend, test, and maintain.
 
+# Tech Stack
+
+- Java (modular architecture)
+- SLF4J + Logback for logging
+- JUnit for testing
+
 # ApproachToCalculateDeliveryRoute
 
 To calculate delivery routes, the system uses a strategy-based approach.

@@ -24,6 +24,13 @@ FoodDeliverySystem is a backend application designed to simulate and optimize fo
 
 ---
 
+## Tech Stack
+
+- Java (modular architecture)
+- SLF4J + Logback for logging
+- JUnit for testing
+
+
 ## 🧠 Approach to Calculate Delivery Route
 
 To calculate delivery routes, the system uses a **strategy-based approach**.
